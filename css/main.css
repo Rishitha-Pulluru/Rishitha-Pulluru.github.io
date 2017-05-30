@@ -1,0 +1,48 @@
+html,body
+{
+margin:0;}
+h1, h3
+{
+  font-family: Georgia, sans-serif;
+  text-transform: uppercase;
+  text-align:center;
+}
+p
+{
+   font-family:Arial,sans-serif;
+   line-height:1.5em;
+   word-spacing:0.3em;
+   color:#835C3B
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+.y
+{
+  max width:500px;
+  margin:0 auto;
+  text-align:center;
+}
+*
+{
+background:url("https://upload.wikimedia.org/wikipedia/commons/a/a1/NIT_Trichy_Clock_tower.jpg") repeat center;
+background-size:cover;
+height:1000px;
+
+}
+.x .y
+{
+  position:relative;
+   top:50px;
+}
+.y h1
+{
+  color:rgb(0,0,0);
+  margin:0;
+  font-size:80px;
+}
+h3
+{
+  color:rgb(0,0,0);
+  margin:0;
+  font-size:80px;
+}
