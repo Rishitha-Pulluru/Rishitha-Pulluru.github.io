@@ -13,8 +13,8 @@ p
    font-family:'Arial',sans-serif;
    line-height:1.5em;
    word-spacing:0.3em;
-   color:#835C3B;
-   margin: 20px;
+   
+   margin: 30px;
   font-size: 18px;
 }
 .y
@@ -46,7 +46,7 @@ overflow:scroll;
 h3
 {
   color:rgb(0,0,0);
-  margin:0;
+  margin:30px;
   font-size:20px;
   text-align:left;
 }
