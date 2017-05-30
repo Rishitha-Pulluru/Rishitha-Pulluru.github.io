@@ -9,7 +9,7 @@ h1
 }
 p
 {
-  color:rgb(255,255,255);
+
    font-family:'Arial',sans-serif;
    line-height:1.5em;
    word-spacing:0.3em;
@@ -54,3 +54,10 @@ h4{
   color:rgb(0, 128, 0);
   font-size:25px;
   margin:0 0 0 5px;}
+.y .p{color:rgb(255,0,0);}
+.m .p{color:rgb(0,255,0);}
+.n .p{color:rgb(0,0,255);}
+.o .p{color:rgb(255,127,80);}
+.p .p{color:rgb(255,255,0);}
+.q .p{color:rgb(128,128,0);}
+
