@@ -29,7 +29,7 @@ background-size:cover;
 height:1000px;
 overflow:scroll;
   background-color:transparent;
-  background-color: rgba(200, 210, 200, 0.1);
+  filter:alpha(opacity=10);
 }
 .x .y
 {
