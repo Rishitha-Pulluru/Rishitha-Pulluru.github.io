@@ -1,7 +1,7 @@
 html,body
 {
 margin:0;}
-h1, h3
+h1
 {
   font-family: Georgia, sans-serif;
   text-transform: uppercase;
@@ -28,7 +28,7 @@ background:url("https://upload.wikimedia.org/wikipedia/commons/a/a1/NIT_Trichy_C
 background-size:cover;
 height:1000px;
 overflow:scroll;
-  background-color
+  background-color:transparent;
   background-color: rgba(200, 210, 200, 0.1);
 }
 .x .y
@@ -40,11 +40,12 @@ overflow:scroll;
 {
   color:rgb(0,0,0);
   margin:0;
-  font-size:80px;
+  font-size:50px;
 }
 h3
 {
   color:rgb(0,0,0);
   margin:0;
-  font-size:40px;
+  font-size:20px;
+  text-align:left;
 }
