@@ -28,7 +28,7 @@ background:url("https://upload.wikimedia.org/wikipedia/commons/a/a1/NIT_Trichy_C
 background-size:cover;
 height:1000px;
 overflow:scroll;
-  background-color: rgba(100, 100, 100, 1);
+  background-color: rgba(100, 100, 100, 0.3);
 }
 .x .y
 {
@@ -45,5 +45,5 @@ h3
 {
   color:rgb(0,0,0);
   margin:0;
-  font-size:80px;
+  font-size:40px;
 }
