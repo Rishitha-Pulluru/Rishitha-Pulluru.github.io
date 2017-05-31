@@ -49,12 +49,12 @@ p
 }
 .s
 {
-background:url("https://lh3.googleusercontent.com/mY9RhLBGaBZB8Qifo-V45QgY69RTfa0K6nSz9dpbzIhVah1MClSgVaQfaDtMbIB6wAH-Jfg=s85") repeat center;
+background:url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjDo4CJ8ZnUAhUSTo8KHapYDvsQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNational_Institute_of_Technology%2C_Tiruchirappalli&psig=AFQjCNFXXrenjf1nFV5UM04HTXXAgUW_9w&ust=1496311554995986") repeat center;
 background-size:cover;
 height:1000px;
 overflow:scroll;
-  background-color:transparent;
-  filter:alpha(opacity=10);
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 .x .y
 {
