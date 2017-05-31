@@ -18,7 +18,7 @@ p
 }
 .y p
 {
-  color: #A52A2A;
+  color: #ffffff;
 }
 .m p
 {
@@ -30,11 +30,11 @@ p
 }
 .o p
 {
-  color:rgb(148,0,211);
+  color:#A9A9A9;
 }
 .p p
 {
-  color:	#800080;
+  color:		#C0C0C0;
 }
 .q p
 {
@@ -49,12 +49,12 @@ p
 }
 .s
 {
-background:url("https://upload.wikimedia.org/wikipedia/commons/a/a1/NIT_Trichy_Clock_tower.jpg") repeat center;
+background:url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjDo4CJ8ZnUAhUSTo8KHapYDvsQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNational_Institute_of_Technology%2C_Tiruchirappalli&psig=AFQjCNFXXrenjf1nFV5UM04HTXXAgUW_9w&ust=1496311554995986") repeat center;
 background-size:cover;
 height:1000px;
 overflow:scroll;
-   background-color:#00ffff;
-    filter: alpha(opacity=20);
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 .x .y
 {
