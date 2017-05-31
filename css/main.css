@@ -16,37 +16,6 @@ p
    margin: 30px;
   font-size: 18px;
 }
-.y p
-{
-  color: #835C3B;
-}
-.m p
-{
-  color: #006400;
-}
-.n p
-{
-  color:rgb(0,0,255);
-}
-.o p
-{
-  color:#9400D3;
-}
-.p p
-{
-  color:		#800080;
-}
-.q p
-{
-  color:#A52A2A;
-}
-
-.y
-{
-  max-width:500px;
-  margin:0 auto;
-  text-align:center;
-}
 .s
 {
 background:url("https://upload.wikimedia.org/wikipedia/commons/a/a1/NIT_Trichy_Clock_tower.jpg") repeat center;
@@ -56,6 +25,44 @@ overflow:scroll;
     opacity: 0.7;
     filter: alpha(opacity=70);
 }
+.y p
+{
+  color: #000000;
+  opacity:1.0;
+}
+.m p
+{
+  color: #006400;
+  opacity:1.0;
+}
+.n p
+{
+  color:rgb(0,0,255);
+  opacity:1.0;
+}
+.o p
+{
+  color:#9400D3;
+  opacity:1.0;
+}
+.p p
+{
+  color:		#800080;
+  opacity:1.0;
+}
+.q p
+{
+  color:#A52A2A;
+  opacity:1.0;
+}
+
+.y
+{
+  max-width:500px;
+  margin:0 auto;
+  text-align:center;
+}
+
 .x .y
 {
   position:relative;
