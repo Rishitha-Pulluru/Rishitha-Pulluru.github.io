@@ -42,7 +42,7 @@ overflow:scroll;
 }
 .o p
 {
-  color:#9400D3;
+  color:rgb(255,0,0);
   opacity:1.0;
 }
 .p p
@@ -52,7 +52,7 @@ overflow:scroll;
 }
 .q p
 {
-  color:#A52A2A;
+  color:#000000;
   opacity:1.0;
 }
 
